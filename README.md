@@ -1,0 +1,1 @@
+# termux-zincsearch-install
